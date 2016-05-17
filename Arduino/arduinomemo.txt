@@ -1,1 +1,5 @@
 arduino file will be upload latter.
+
+2016/5/17 
+Sensor code would be bulid when I remember. 
+As I use rPi as main server, do I need arduino?

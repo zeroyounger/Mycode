@@ -1,0 +1,4 @@
+test usrt communicate between zigbee and rPi
+just send chip temprature to uart, test if rPi can receive the date.
+
+But first of all, I should establish local IDE on my mac..
